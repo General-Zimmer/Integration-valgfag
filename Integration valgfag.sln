@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgave 2-3", "Integration valgfag\Opgave 2-3.csproj", "{CD9EA523-03D9-4878-BF92-9F29AD03947F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lektion 2 - Intro to M Queue", "Lektion 2 - Intro to M Queue", "{69D519B6-6D3A-4FCB-B518-0EEE9867EADE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lektion 3 -", "Lektion 3 -", "{A0818CC2-C3A6-47F6-94B1-953F6643FA75}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lektion 4 -", "Lektion 4 -", "{06A406D8-6188-478F-BAAF-69C77DAEAB02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg. 4-6 airport1", "airport1\Opg. 4-6 airport1.csproj", "{B5C6541E-D6FF-4C2C-89EE-FB683CF1B8A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD9EA523-03D9-4878-BF92-9F29AD03947F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD9EA523-03D9-4878-BF92-9F29AD03947F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD9EA523-03D9-4878-BF92-9F29AD03947F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD9EA523-03D9-4878-BF92-9F29AD03947F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5C6541E-D6FF-4C2C-89EE-FB683CF1B8A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5C6541E-D6FF-4C2C-89EE-FB683CF1B8A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5C6541E-D6FF-4C2C-89EE-FB683CF1B8A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5C6541E-D6FF-4C2C-89EE-FB683CF1B8A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CD9EA523-03D9-4878-BF92-9F29AD03947F} = {69D519B6-6D3A-4FCB-B518-0EEE9867EADE}
+		{B5C6541E-D6FF-4C2C-89EE-FB683CF1B8A6} = {69D519B6-6D3A-4FCB-B518-0EEE9867EADE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEBE443E-8BD0-47BF-90C9-12BA7A194C00}
+	EndGlobalSection
+EndGlobal

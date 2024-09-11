@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B5C6541E-D6FF-4C2C-89EE-FB683CF1B8A6}</ProjectGuid>
+    <ProjectGuid>{CEA73073-45F4-4805-BE43-7CE08DE5FED4}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>airport1</RootNamespace>
-    <AssemblyName>airport1</AssemblyName>
+    <RootNamespace>Opgave_3</RootNamespace>
+    <AssemblyName>Opgave 3</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
